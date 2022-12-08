@@ -1,0 +1,23 @@
+{
+  "name": "jobamon",
+  "version": "1.0.0",
+  "description": "Project in Action - [Jobify](https://www.jobify.live/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PARASnagpal99/JobaMon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PARASnagpal99/JobaMon/issues"
+  },
+  "homepage": "https://github.com/PARASnagpal99/JobaMon#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
